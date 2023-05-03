@@ -11,11 +11,3 @@ const testStore = useTestStore()
       {{ item.name }}
   </div>
 </template>
-
-<style lang="scss">
-  .v-application {
-    width: 100vw;
-    height: 100vh;
-    background-color: $background-dd;
-  }
-</style>
